@@ -6,4 +6,4 @@ This is a lightweight parametric + probabilistic model aligned with the **NASA C
 - run **Monte Carlo** for **P10/P50/P90**
 - run **±5% sensitivity** on key drivers
 
-> Coefficients here are illustrative. Replace CER settings as you calibrate to your actual CERs.
+> Coefficients here are illustrative. Replace CER settings as you calibrate to actual CERs for each respective team.
