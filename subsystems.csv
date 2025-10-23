@@ -1,0 +1,7 @@
+type,subsystem,mass,peak_power,part_count,trl,redundancy
+Power,Array Controller,22,480,120,6,1
+Power,Battery Pack,18,350,80,6,1
+Thermal,Thermal Control,15,0,60,6,0
+Avionics,Main Computer,8,120,200,6,1
+Comms,Transceiver,6,95,140,6,1
+Payload,Science Package,25,60,160,5,0
