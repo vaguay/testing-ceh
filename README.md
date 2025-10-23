@@ -7,7 +7,6 @@ A lightweight Python model that mimics **NASA CEH 4.0** workflows:
 - **Sensitivity analysis** (driver elasticities)
 - **CSV in / CSV out**, easy to open in Excel
 
-> ⚠️ Coefficients in this quickstart are **illustrative**. Replace with the ones you use in your project.
 
 ## Files
 - `subsystems.csv` — inputs (edit this)
