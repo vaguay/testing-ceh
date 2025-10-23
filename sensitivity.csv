@@ -1,0 +1,10 @@
+type,driver,max_abs_impact
+Power,mass,10.179219260108823
+Power,peak_power,6.277231095977356
+Payload,mass,0.9155611533514723
+Payload,part_count,0.26495186925365033
+Thermal,mass,0.24668765492389255
+Avionics,mass,0.1512208798439305
+Comms,mass,0.11711674824317875
+Comms,peak_power,0.09777208288973505
+Avionics,part_count,0.06701523337066462

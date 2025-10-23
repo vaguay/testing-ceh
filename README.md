@@ -1,23 +1,9 @@
-# CEH-Style Cost & Risk Model (Quickstart)
+# CEH-Style Cost & Risk Model (Quickstart, PDR-Calibrated)
 
-A lightweight Python model that mimics **NASA CEH 4.0** workflows:
-- **Parametric CERs** (cost-estimating relationships) per subsystem
-- **Deterministic P50** costs
-- **Monte Carlo** risk bands (P10/P50/P90)
-- **Sensitivity analysis** (driver elasticities)
-- **CSV in / CSV out**, easy to open in Excel
+This is a lightweight parametric + probabilistic model aligned with the **NASA CEH 4.0** process:
+- encode **CERs** by subsystem
+- compute deterministic **P50** costs
+- run **Monte Carlo** for **P10/P50/P90**
+- run **±5% sensitivity** on key drivers
 
-
-## Files
-- `subsystems.csv` — inputs
-- `ceh_model.py` — main script
-- `requirements.txt` — dependencies
-- `run_example.sh` — helper to run locally (Mac/Linux)
-
-## Quick Run
-```bash
-python3 ceh_model.py
-```
-Outputs are written to `out/`:
-- `summary.csv` — P10/P50/P90 and by-subsystem table
-- `sensitivity.csv` — ranked cost impact of ±5% driver nudges
+> Coefficients here are illustrative. Replace CER settings as you calibrate to your actual CERs.

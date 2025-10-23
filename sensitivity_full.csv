@@ -1,0 +1,19 @@
+subsystem,type,driver,direction,impact_abs
+Power Subsystem (Arrays+MPPT+Batteries+PCDU),Power,mass,up,9.987545662685136
+Power Subsystem (Arrays+MPPT+Batteries+PCDU),Power,mass,down,-10.179219260108823
+Power Subsystem (Arrays+MPPT+Batteries+PCDU),Power,peak_power,up,6.085519115574016
+Power Subsystem (Arrays+MPPT+Batteries+PCDU),Power,peak_power,down,-6.277231095977356
+Thermal Control System (MLI+Heaters+TEC+Switch),Thermal,mass,up,0.24119638656376452
+Thermal Control System (MLI+Heaters+TEC+Switch),Thermal,mass,down,-0.24668765492389255
+CDH + Telecom,Avionics,mass,up,0.14748530035147844
+CDH + Telecom,Avionics,mass,down,-0.1512208798439305
+CDH + Telecom,Avionics,part_count,up,0.06445049058406571
+CDH + Telecom,Avionics,part_count,down,-0.06701523337066462
+Telecom (Antenna/PA/RF),Comms,mass,up,0.11376736200378268
+Telecom (Antenna/PA/RF),Comms,mass,down,-0.11711674824317875
+Telecom (Antenna/PA/RF),Comms,peak_power,up,0.09464387093505522
+Telecom (Antenna/PA/RF),Comms,peak_power,down,-0.09777208288973505
+Science Payload (EPD+GPR+NIRVSS+Sherloc/NIR),Payload,mass,up,0.9019237337662602
+Science Payload (EPD+GPR+NIRVSS+Sherloc/NIR),Payload,mass,down,-0.9155611533514723
+Science Payload (EPD+GPR+NIRVSS+Sherloc/NIR),Payload,part_count,up,0.2545570105825554
+Science Payload (EPD+GPR+NIRVSS+Sherloc/NIR),Payload,part_count,down,-0.26495186925365033

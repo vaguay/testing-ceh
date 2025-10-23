@@ -1,0 +1,6 @@
+type,subsystem,mass,peak_power,part_count,trl,redundancy
+Power,Power Subsystem (Arrays+MPPT+Batteries+PCDU),73.327,732.0,4,6,1
+Thermal,Thermal Control System (MLI+Heaters+TEC+Switch),91.432,1500.0,4,5,0
+Avionics,CDH + Telecom,13.4,54.0,6,7,1
+Comms,Telecom (Antenna/PA/RF),5.0,30.0,3,6,1
+Payload,Science Payload (EPD+GPR+NIRVSS+Sherloc/NIR),24.44,42.2,4,6,0
