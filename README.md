@@ -9,7 +9,7 @@ A lightweight Python model that mimics **NASA CEH 4.0** workflows:
 
 
 ## Files
-- `subsystems.csv` — inputs (edit this)
+- `subsystems.csv` — inputs
 - `ceh_model.py` — main script
 - `requirements.txt` — dependencies
 - `run_example.sh` — helper to run locally (Mac/Linux)
